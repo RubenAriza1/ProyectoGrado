@@ -235,7 +235,7 @@ flutter run
 curl -i https://proyectodegrado-90yf.onrender.com/health
 ```
 
-Si quieres, puedo añadir pasos para probar la subida/streaming de un video de prueba (10 minutos / 1 GB) y un ejemplo cURL para subir archivos multipart.
+añadi pasos para probar la subida/streaming de un video de prueba (10 minutos / 1 GB) y un ejemplo cURL para subir archivos multipart.
 
 │   │       └── wallet_repository.dart
 │   ├── presentation/
